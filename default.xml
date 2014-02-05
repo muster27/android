@@ -473,8 +473,8 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
-  <project path="kernel/your_company/your_device" name="user2/kernel_source" remote="github" revision="jb4.3" />
-  <project path="device/your_company/your_device" name="user2/device_source" remote="github" revision="jb4.3" />
-	<project path="device/your_company/your_device-common" name="user2/device-common_source" remote="github" revision="jb4.3" />
-  <project path="vendor/your_company" name="user2/vendor" remote="github" revision="jb4.3" />
+  <project path="kernel/arnova/8cg3" name="muster27/kernel_source" remote="github" revision="jb4.4" />
+  <project path="device/arnova/8cg3" name="muster27/device_source" remote="github" revision="jb4.4" />
+  <project path="device/arnova/8cg3-common" name="muster27/device-common_source" remote="github" revision="jb4.4" />
+  <project path="vendor/arnova" name="muster27/vendor" remote="github" revision="jb4.4" />
 </manifest>
